@@ -1,5 +1,9 @@
-# bot-discord-py-replit
-https://www.youtube.com/watch?v=vDmed9KcGRc
+[![bot-discord-py-replit](https://img.youtube.com/vi/vDmed9KcGRc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vDmed9KcGRc)
+
+Lien vers la vidéo :
+- [Créer un bot discord en 10 minutes avec Python !](https://www.youtube.com/watch?v=vDmed9KcGRc)
+
+---
 
 💬 Dans cette vidéo vous allez apprendre à écrire des commandes pour interagir avec les messages d'un serveur discord.
 
