@@ -40,7 +40,7 @@ J'ai utilisé random.choiceS (avec un s) plutôt que choice donc j'ai une liste 
 - Posez vos questions sur discord : https://discord.gg/2AubRA4eBQ
 
 🐍 Mes autres tutoriels en Python :
-- [Apprendre Python en 1 heure - Cours complet pour débutant en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
+- [Apprendre Python en 1 heure - Cours complet pour débutant en Python](https://www.youtube.com/watch?v=5EnpNI2iCZA)
 - [Comment créer un bot de clic en Python ?](https://www.youtube.com/watch?v=yEYN4P0lRzY)
 - [Apprendre Django en partant de Zéro - 1 heure de Tutoriel pour les Débutants en Python](https://www.youtube.com/watch?v=xJNvJaLl8bU)
 - [Comment créer un bot discord en Python ? Cours complet pour apprendre Discord.py en 1 heure](https://www.youtube.com/watch?v=LHF1dgwW6aw)
